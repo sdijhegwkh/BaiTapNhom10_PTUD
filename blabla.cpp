@@ -1,7 +1,7 @@
 #include <climits>
 #include <iostream>
 using namespace std;
-
+printf("Hello world");
 struct Node {
     int info;
     Node* left;
